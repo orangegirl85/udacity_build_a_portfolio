@@ -7,7 +7,7 @@
 
 # Run App
 ----------------
-1. Clone project https://github.com/orangegirl85/udacity_p1_movie_trailer_website.git
+1. Clone project https://github.com/orangegirl85/udacity_build_a_portfolio.git
 
 2. Open index.html in a browser
 
