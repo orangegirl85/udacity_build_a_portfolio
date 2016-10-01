@@ -7,3 +7,29 @@
     width: 62px;
     height: 62px;
 }
+
+.img-responsive {
+    border: 1px solid #2d3c49;
+}
+
+.mt-10 {
+    margin-top: 10px;
+}
+
+.featured-work h2 {
+    font-size: 20px;
+}
+
+h1 {
+    color: #02b3e4;
+}
+
+h3 {
+    font-size: 16px;
+}
+
+@media (max-width: 1000px) {
+    .featured-work .col-md-4 {
+        margin-bottom: 50px;
+    }
+}
